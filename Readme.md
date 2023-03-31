@@ -1,0 +1,3 @@
+# Patterns collection
+
+* composite
