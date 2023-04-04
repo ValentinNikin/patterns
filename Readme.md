@@ -1,3 +1,4 @@
 # Patterns collection
 
-* composite
+* Composite (компоновщик)
+* Strategy (стратегия)
