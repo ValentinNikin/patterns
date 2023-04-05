@@ -12,6 +12,9 @@ public:
     std::string name() { return _name; }
 
     virtual std::size_t size() = 0;
+
+    // Метод addObject можно было бы объявить в классе Directory, но в этом случае
+    // пришлось бы уметь различать File от Directory в runtime.
     virtual void addObject(FileSystemObject *) {
         throw std::runtime_error("Method is not implemented");
     }
