@@ -4,6 +4,7 @@ project(patterns)
 
 add_subdirectory(abstract-factory)
 add_subdirectory(bridge)
+add_subdirectory(builder)
 add_subdirectory(composite)
 add_subdirectory(command)
 add_subdirectory(strategy)
