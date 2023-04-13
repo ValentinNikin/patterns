@@ -62,7 +62,7 @@ void example() {
 
 }
 
-namespace register_implementation {
+namespace registry_implementation {
 class Singleton {
 public:
     static void add(const std::string& name, Singleton* singleton) {
@@ -110,7 +110,7 @@ void example() {
 
 int main(int, char *[]) {
     simple_implementation::example();
-    register_implementation::example();
+    registry_implementation::example();
 
     return 0;
 }
