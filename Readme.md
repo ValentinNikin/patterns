@@ -7,6 +7,7 @@
 * Builder (строитель)
 * Factory method (фабричный метод)
 * Prototype (прототип)
+* Singleton (одиночка)
 
 **Структурные паттерны:**
 * Bridge (мост)
