@@ -6,6 +6,7 @@
 * Abstract factory (абстрактная фабрика)
 * Builder (строитель)
 * Factory method (фабричный метод)
+* Prototype (прототип)
 
 **Структурные паттерны:**
 * Bridge (мост)
