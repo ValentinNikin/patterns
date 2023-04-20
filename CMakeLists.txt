@@ -16,6 +16,7 @@ add_subdirectory(facade)
 add_subdirectory(flyweight)
 add_subdirectory(proxy)
 
+add_subdirectory(chain-of-responsibility)
 add_subdirectory(command)
 add_subdirectory(strategy)
 add_subdirectory(iterator)

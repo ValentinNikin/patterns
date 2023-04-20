@@ -19,6 +19,7 @@
 * Proxy (заместитель)
 
 **Поведенческие паттерны:**
+* Chain of Responsibility (цепочка обязанностей)
 * Command (команда)
 * Iterator (итератор)
 * Strategy (стратегия)
