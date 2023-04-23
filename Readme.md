@@ -24,6 +24,7 @@
 * Interpreter (интерпретатор)
 * Mediator (посредник)
 * Memento (хранитель)
+* Observer (наблюдатель)
 * Iterator (итератор)
 * Strategy (стратегия)
 * Visitor (посетитель)
