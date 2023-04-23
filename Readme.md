@@ -25,6 +25,7 @@
 * Mediator (посредник)
 * Memento (хранитель)
 * Observer (наблюдатель)
+* State (состояние)
 * Iterator (итератор)
 * Strategy (стратегия)
 * Visitor (посетитель)
