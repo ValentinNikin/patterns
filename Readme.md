@@ -21,6 +21,9 @@
 **Поведенческие паттерны:**
 * Chain of Responsibility (цепочка обязанностей)
 * Command (команда)
+* Interpreter (интерпретатор)
+* Mediator (посредник)
+* Memento (хранитель)
 * Iterator (итератор)
 * Strategy (стратегия)
 * Visitor (посетитель)
